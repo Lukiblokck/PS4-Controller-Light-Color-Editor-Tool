@@ -26,10 +26,10 @@ A simple Windows Forms application to customize the light bar color of your PS4 
 
 ## Installation
 
-1. Clone or download this repository.
-2. Open the solution in **Visual Studio**.
-3. Build the project in **Release mode**.
-4. Run the generated `.exe` from the `bin\Release\net6.0-windows` folder.
+1. Download the `release`.
+2. Unzip the `.zip`.
+3. Run the `.exe` from the `PS4 Controller Light Color Editor Tool` folder.
+4. Now enjoy!!!
 
 ## License
 
