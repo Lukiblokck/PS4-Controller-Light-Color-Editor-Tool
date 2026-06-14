@@ -33,8 +33,10 @@ A simple Windows Forms application to customize the light bar color of your PS4 
 
 ## License
 
-This project is licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.  
-You are free to **share and adapt** the project, but you **cannot use it commercially**.  
-You must give **appropriate credit**, provide a **link to the license**, and **indicate if changes were made**. If you remix, transform, or build upon the material, you must distribute your contributions under the **same license**.
+This project is licensed under the **Apache License 2.0**.
+You are free to use, modify, distribute, and sublicense this project, including for commercial purposes.
 
-[Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+You must include a copy of the license and provide proper attribution to the original author.
+This license also grants you rights under patent terms from contributors.
+
+[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
