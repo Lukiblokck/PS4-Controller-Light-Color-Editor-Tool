@@ -1,6 +1,6 @@
 # PS4 Controller Light Color Editor Tool
 
-A simple Windows Forms application to customize the light bar color of your PS4 DualShock controller. 
+A simple application to customize the light bar color of your PS4 DualShock controller. 
 
 ## Features
 
@@ -9,7 +9,7 @@ A simple Windows Forms application to customize the light bar color of your PS4 
 - **Live Preview**: See the selected color on the panel in the application before sending it to the controller.
 - **Quick Access Links**:
   - [Developer's Website](https://lukiblokck.github.io)
-  - [Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+  - [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## How It Works
 
