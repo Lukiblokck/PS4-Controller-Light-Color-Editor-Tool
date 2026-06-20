@@ -1,0 +1,19 @@
+C:\Users\kiram\source\repos\PS4 Controller Light Color Editor Tool\PS4 Controller Light Color Editor Tool\obj\Debug\net8.0-windows\PS4 Controller Light Color Editor Tool.csproj.AssemblyReference.cache
+C:\Users\kiram\source\repos\PS4 Controller Light Color Editor Tool\PS4 Controller Light Color Editor Tool\obj\Debug\net8.0-windows\PS4_Controller_Light_Color_Editor_Tool.Form1.resources
+C:\Users\kiram\source\repos\PS4 Controller Light Color Editor Tool\PS4 Controller Light Color Editor Tool\obj\Debug\net8.0-windows\PS4 Controller Light Color Editor Tool.csproj.GenerateResource.cache
+C:\Users\kiram\source\repos\PS4 Controller Light Color Editor Tool\PS4 Controller Light Color Editor Tool\obj\Debug\net8.0-windows\PS4 Controller Light Color Editor Tool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiram\source\repos\PS4 Controller Light Color Editor Tool\PS4 Controller Light Color Editor Tool\obj\Debug\net8.0-windows\PS4 Controller Light Color Editor Tool.AssemblyInfoInputs.cache
+C:\Users\kiram\source\repos\PS4 Controller Light Color Editor Tool\PS4 Controller Light Color Editor Tool\obj\Debug\net8.0-windows\PS4 Controller Light Color Editor Tool.AssemblyInfo.cs
+C:\Users\kiram\source\repos\PS4 Controller Light Color Editor Tool\PS4 Controller Light Color Editor Tool\obj\Debug\net8.0-windows\PS4 Controller Light Color Editor Tool.csproj.CoreCompileInputs.cache
+C:\Users\kiram\source\repos\PS4 Controller Light Color Editor Tool\PS4 Controller Light Color Editor Tool\bin\Debug\net8.0-windows\PS4 Controller Light Color Editor Tool.exe
+C:\Users\kiram\source\repos\PS4 Controller Light Color Editor Tool\PS4 Controller Light Color Editor Tool\bin\Debug\net8.0-windows\PS4 Controller Light Color Editor Tool.deps.json
+C:\Users\kiram\source\repos\PS4 Controller Light Color Editor Tool\PS4 Controller Light Color Editor Tool\bin\Debug\net8.0-windows\PS4 Controller Light Color Editor Tool.runtimeconfig.json
+C:\Users\kiram\source\repos\PS4 Controller Light Color Editor Tool\PS4 Controller Light Color Editor Tool\bin\Debug\net8.0-windows\PS4 Controller Light Color Editor Tool.dll
+C:\Users\kiram\source\repos\PS4 Controller Light Color Editor Tool\PS4 Controller Light Color Editor Tool\bin\Debug\net8.0-windows\PS4 Controller Light Color Editor Tool.pdb
+C:\Users\kiram\source\repos\PS4 Controller Light Color Editor Tool\PS4 Controller Light Color Editor Tool\bin\Debug\net8.0-windows\HidSharp.dll
+C:\Users\kiram\source\repos\PS4 Controller Light Color Editor Tool\PS4 Controller Light Color Editor Tool\obj\Debug\net8.0-windows\PS4 Cont.31604799.Up2Date
+C:\Users\kiram\source\repos\PS4 Controller Light Color Editor Tool\PS4 Controller Light Color Editor Tool\obj\Debug\net8.0-windows\PS4 Controller Light Color Editor Tool.dll
+C:\Users\kiram\source\repos\PS4 Controller Light Color Editor Tool\PS4 Controller Light Color Editor Tool\obj\Debug\net8.0-windows\refint\PS4 Controller Light Color Editor Tool.dll
+C:\Users\kiram\source\repos\PS4 Controller Light Color Editor Tool\PS4 Controller Light Color Editor Tool\obj\Debug\net8.0-windows\PS4 Controller Light Color Editor Tool.pdb
+C:\Users\kiram\source\repos\PS4 Controller Light Color Editor Tool\PS4 Controller Light Color Editor Tool\obj\Debug\net8.0-windows\PS4 Controller Light Color Editor Tool.genruntimeconfig.cache
+C:\Users\kiram\source\repos\PS4 Controller Light Color Editor Tool\PS4 Controller Light Color Editor Tool\obj\Debug\net8.0-windows\ref\PS4 Controller Light Color Editor Tool.dll
